@@ -1,0 +1,12 @@
+/Botva/Win32/Win32/Win32/Debug
+/Botva/Win32/Win32/Win32/Release
+/Botva/Win32/Win32/Win32/x64
+/Botva/Android/ARM/
+/Botva/Android/Android/Android.NativeActivity/ARM/
+/Botva/Android/Android/Android.Packaging/ARM/
+/Botva/Win32/Win32/Debug
+/Botva/Win32/Win32/Release
+*.suo
+*.sdf
+*.ipch
+*.user
